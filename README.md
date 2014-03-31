@@ -26,6 +26,7 @@ This section describes how to install the plugin and get it working.
 1. Upload the `Listings-Post-Type` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. A "Directory" admin menu item is added to the administration area.
+4. Α custom widget is activated in widget dashboard.
 
 == Changelog ==
 
