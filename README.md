@@ -1,4 +1,5 @@
 === Listings Post Type Enable ===
+
 Contributors: alexitsios
 Tags: custom post type, listings post type, directory post type, custom widget
 Requires at least: 3.0.1
