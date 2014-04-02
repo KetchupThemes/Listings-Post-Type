@@ -22,7 +22,7 @@ The plugin is in English but it can be translated.
 
 This section describes how to install the plugin and get it working.
 
-1. Upload the `listings-plugin` folder to the `/wp-content/plugins/` directory
+1. Upload the 'Listings-Post-Type' folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. A "Directory" admin menu item is added to the administration area.
 
